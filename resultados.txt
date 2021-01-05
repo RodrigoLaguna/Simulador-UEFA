@@ -1,0 +1,433 @@
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Barcelona
+  1 	Juegos jugados
+  0 	Victorias
+  0 	Victorias
+  1 	Derrotas
+  2 	Goles anotados
+  3 	Goles en contra
+  -1 	Dif.Goles
+
+
+Jugadores
+Goles 	Nombre
+  0	Marc-Andre_ter_Stegen
+  0	Gerard_Pique
+  0	Samuel_Umtiti
+  0	Jordi_Alba
+  1	Sergi_Roberto
+  0	Philippe_Coutinho
+  0	Ivan_Rakitic
+  0	Sergio_Busquets
+  1	Lionel_Messi
+  0	Ousmane_Dembele
+  0	Luis_Suarez
+
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Inter_de_Milan
+  1 	Juegos jugados
+  0 	Victorias
+  0 	Victorias
+  1 	Derrotas
+  1 	Goles anotados
+  5 	Goles en contra
+  -4 	Dif.Goles
+
+
+Jugadores
+Goles 	Nombre
+  0	Mauro_Icardi
+  0	Radja_Nainggolan
+  1	Lautaro_Martinez
+  0	Ivan_Perisic
+  0	Keita_Balde_Diao
+  0	Marcelo_Brozovic
+  0	Cedric_Soares
+  0	Matteo_Politano
+  0	Samir_Handanovic
+  0	Milan_Akriniar
+  0	Matias_Vecino
+
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+PSV_Eindhoven
+  1 	Juegos jugados
+  0 	Victorias
+  0 	Victorias
+  1 	Derrotas
+  3 	Goles anotados
+  4 	Goles en contra
+  -1 	Dif.Goles
+
+
+Jugadores
+Goles 	Nombre
+  0	Hirving_Lozano
+  0	Jeroen_Zoet
+  0	Yanick_van_Osch
+  0	Nicolas_Isimat-Mirin
+  0	Nick_Viergever
+  0	Daniel_Schwaab
+  0	Angelico
+  0	Jorrit_Hendrix
+  3	Trent_Sainsbury
+  0	Denzel_Dumfries
+  0	Gaston_Pereiro
+
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Liverpool
+  1 	Juegos jugados
+  0 	Victorias
+  0 	Victorias
+  1 	Derrotas
+  4 	Goles anotados
+  5 	Goles en contra
+  -1 	Dif.Goles
+
+
+Jugadores
+Goles 	Nombre
+  0	Alisson_Becker
+  1	Simon_Mignolet
+  2	Virgil_Van_Dijk
+  0	Dejan_Lovren
+  0	Joe_Gomez
+  0	Alberto_Moreno
+  0	Andy_Robertson
+  0	Joel_Matip
+  0	Trent_Alexander-Arnold
+  0	Fabinho
+  1	Georginio_Wijnaldum
+
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Porto_Club
+  1 	Juegos jugados
+  0 	Victorias
+  0 	Victorias
+  1 	Derrotas
+  2 	Goles anotados
+  4 	Goles en contra
+  -2 	Dif.Goles
+
+
+Jugadores
+Goles 	Nombre
+  0	Iker_Casillas
+  0	Vanu
+  0	Maxi_Pereira
+  0	Eder_Milito
+  1	Diogo_Leite
+  0	Alex_Telles
+  1	Jorge
+  0	Felipe
+  0	Pepe
+  0	Bruno_Costa
+  0	Yacine_Brahimi
+
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Bayer_Munich
+  1 	Juegos jugados
+  0 	Victorias
+  0 	Victorias
+  1 	Derrotas
+  0 	Goles anotados
+  1 	Goles en contra
+  -1 	Dif.Goles
+
+
+Jugadores
+Goles 	Nombre
+  0	Manuel_Neuer
+  0	Sven_Ulreich
+  0	Niklas_Sole
+  0	Mats_Hummels
+  0	Rafinha
+  0	Jereme_Boateng
+  0	David_Alaba
+  0	Lars_Lukas_Mai
+  0	Thiago_Alcantara
+  0	Franck_Ribery
+  0	Javi_Martinez
+
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Man_City
+  1 	Juegos jugados
+  0 	Victorias
+  0 	Victorias
+  1 	Derrotas
+  1 	Goles anotados
+  3 	Goles en contra
+  -2 	Dif.Goles
+
+
+Jugadores
+Goles 	Nombre
+  0	Claudio_Bravo
+  0	Ederson
+  0	Kyle_Walker
+  1	Danilo
+  0	Vincent_Kompany
+  0	John_Stones
+  0	Aymeric_Laporte
+  0	Benjamin_Mendy
+  0	Nicolas_Otamendi
+  0	Raheem_Sterling
+  0	Ilkay_Gandogan
+
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Lyon_FC
+  1 	Juegos jugados
+  0 	Victorias
+  0 	Victorias
+  1 	Derrotas
+  2 	Goles anotados
+  3 	Goles en contra
+  -1 	Dif.Goles
+
+
+Jugadores
+Goles 	Nombre
+  0	Oleksandr_Zinchenko
+  0	Mathieu_Gorgelin
+  0	Mapou_Yanga-Mbiwa
+  0	Rafael
+  0	Jason_Denayer
+  0	Marcelo
+  1	Luo_Dubois
+  1	Jeremy_Morel
+  0	Fernando_Marial
+  0	Ferland_Mendy
+  0	Kenny_Tete
+
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Atletico_de_Madrid
+  2 	Juegos jugados
+  1 	Victorias
+  1 	Victorias
+  1 	Derrotas
+  5 	Goles anotados
+  5 	Goles en contra
+  0 	Dif.Goles
+
+
+Jugadores
+Goles 	Nombre
+  0	Jan_Oblak
+  1	Filipe_Luis
+  2	Diego_Godin
+  0	Jose_Maria_Gimenez
+  0	Santiago_Arias
+  0	Saul_Higuez
+  1	Koke_Resurreccion
+  1	Rodrigo_Hernandez
+  0	Angel_Correa
+  0	Antoine_Griezmann
+  0	Alvaro_Morata
+
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Calcio_Napoli
+  2 	Juegos jugados
+  1 	Victorias
+  1 	Victorias
+  1 	Derrotas
+  7 	Goles anotados
+  7 	Goles en contra
+  0 	Dif.Goles
+
+
+Jugadores
+Goles 	Nombre
+  0	Gianluigi_Buffon
+  0	Alphonse_Areola
+  1	Thiago_Silva
+  1	Presnel_Kimpembe
+  1	Thilo_Kehrer
+  0	Marquinhos
+  0	Thomas_Meunier
+  2	Dani_Alves
+  0	Juan_Bernat
+  2	Colin_Dagba
+  0	Layvin_Kurzawa
+
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Man_United
+  2 	Juegos jugados
+  1 	Victorias
+  1 	Victorias
+  1 	Derrotas
+  3 	Goles anotados
+  4 	Goles en contra
+  -1 	Dif.Goles
+
+
+Jugadores
+Goles 	Nombre
+  1	Wojciech_Szczesny
+  1	Carlo_Pinsoglio
+  0	Mattia_De_Sciglio
+  0	Giorgio_Chiellini
+  1	Martin_Caceres
+  0	Alex_Sandro
+  2	Andrea_Barzagli
+  0	Leonardo_Bonucci
+  2	Joco_Cancelo
+  1	Daniele_Rugani
+  0	Miralem_Pjanic
+
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Real_Madrid
+  2 	Juegos jugados
+  1 	Victorias
+  1 	Victorias
+  1 	Derrotas
+  4 	Goles anotados
+  6 	Goles en contra
+  -2 	Dif.Goles
+
+
+Jugadores
+Goles 	Nombre
+  0	Andre_Onana
+  2	Bruno_Varela
+  0	Rasmus_Kristensen
+  1	Joel_Veltman
+  0	Matthijs_de_Ligt
+  0	Lisandro_Magallon
+  1	Daley_Blind
+  2	Nicolis_Tagliafico
+  1	Donny_van_de_Beek
+  0	Daley_Sinkgraven
+  0	Noussair_Mazraoui
+
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Tottenham
+  3 	Juegos jugados
+  2 	Victorias
+  2 	Victorias
+  1 	Derrotas
+  11 	Goles anotados
+  8 	Goles en contra
+  3 	Dif.Goles
+
+
+Jugadores
+Goles 	Nombre
+  3	Hugo_Lloris
+  0	Toby_Alderweireld
+  1	Danny_Rose
+  1	Kieran_Trippier
+  0	Davinson_Sanchez
+  2	Dele_Alli
+  2	Moussa_Sissoko
+  1	Christian_Eriksen
+  1	Eric_Dier
+  0	Harry_Kane
+  0	Son_Heung-Min
+
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Ajax_Club
+  3 	Juegos jugados
+  2 	Victorias
+  2 	Victorias
+  1 	Derrotas
+  9 	Goles anotados
+  5 	Goles en contra
+  4 	Dif.Goles
+
+
+Jugadores
+Goles 	Nombre
+  0	Andre_Onana
+  2	Bruno_Varela
+  1	Rasmus_Kristensen
+  1	Joel_Veltman
+  0	Matthijs_de_Ligt
+  0	Lisandro_Magallon
+  1	Daley_Blind
+  2	Nicolis_Tagliafico
+  2	Donny_van_de_Beek
+  0	Daley_Sinkgraven
+  0	Noussair_Mazraoui
+
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Juventus
+  4 	Juegos jugados
+  3 	Victorias
+  3 	Victorias
+  1 	Derrotas
+  14 	Goles anotados
+  10 	Goles en contra
+  4 	Dif.Goles
+
+
+Jugadores
+Goles 	Nombre
+  1	Wojciech_Szczesny
+  1	Carlo_Pinsoglio
+  0	Mattia_De_Sciglio
+  0	Giorgio_Chiellini
+  2	Martin_Caceres
+  0	Alex_Sandro
+  4	Andrea_Barzagli
+  0	Leonardo_Bonucci
+  3	Joco_Cancelo
+  2	Daniele_Rugani
+  1	Miralem_Pjanic
+
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+	Campeon
+París_SG_Club
+  4 	Juegos jugados
+  4 	Victorias
+  4 	Victorias
+  0 	Derrotas
+  16 	Goles anotados
+  11 	Goles en contra
+  5 	Dif.Goles
+
+
+Jugadores
+Goles 	Nombre
+  1	Gianluigi_Buffon
+  2	Alphonse_Areola
+  1	Thiago_Silva
+  3	Presnel_Kimpembe
+  3	Thilo_Kehrer
+  1	Marquinhos
+  0	Thomas_Meunier
+  2	Dani_Alves
+  1	Juan_Bernat
+  2	Colin_Dagba
+  0	Layvin_Kurzawa
+
+
